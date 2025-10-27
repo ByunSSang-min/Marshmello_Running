@@ -28,7 +28,7 @@
 
 <링크 접속하면 게임 플레이 가능>
 
--> https://byunssang-min.github.io/Escaping_Ball_github.io/
+-> https://github.com/ByunSSang-min/Marshmello_Running_github.io
 
 ---
 
