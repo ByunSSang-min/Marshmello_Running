@@ -28,7 +28,7 @@
 
 <링크 접속하면 게임 플레이 가능>
 
--> https://github.com/ByunSSang-min/Marshmello_Running_github.io
+-> https://byunssang-min.github.io/Marshmello_Running_github.io/
 
 ---
 
